@@ -13,7 +13,7 @@ namespace Henkilöstö03
 
         public override string ToString()
         {
-            return base.ToString()+ " " + Car +" "+ Bonus;
+            return base.ToString() + " " + Car + " " + Bonus;
         }
 
     }
